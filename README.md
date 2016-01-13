@@ -19,3 +19,9 @@ http://wesbos.com
 JavaScript Jabber
 
 https://devchat.tv/js-jabber/
+
+### Books
+
+Addy Osmani. Learning JavaScript Design Patterns
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
