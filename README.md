@@ -1,5 +1,11 @@
 # JavaScript bookmarks
 
+> A curated list of grea JavaScript resources
+
+## Table of Contents
+- [Blogs](#blogs)
+- [Podcasts](#podcasts)
+
 ### Blogs
 
 http://echojs.com
@@ -10,17 +16,17 @@ https://ponyfoo.com
 
 http://2ality.com
 
-### Personal Blogs
+## Personal Blogs
 
 http://wesbos.com
 
-### Podcasts
+## Podcasts
 
 JavaScript Jabber
 
 https://devchat.tv/js-jabber/
 
-### Books
+## Books
 
 Addy Osmani. Learning JavaScript Design Patterns
 
