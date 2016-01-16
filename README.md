@@ -8,26 +8,20 @@
 
 ### Blogs
 
-http://echojs.com
-
-http://javascriptweekly.com
-
-https://ponyfoo.com
-
-http://2ality.com
+- [Echo JS](http://www.echojs.com)
+- [Pony Foo](https://www.ponyfoo.com)
+- http://javascriptweekly.com
+- http://2ality.com
 
 ## Personal Blogs
 
-http://wesbos.com
+- http://wesbos.com
 
 ## Podcasts
 
-JavaScript Jabber
-
-https://devchat.tv/js-jabber/
+- [JavaScript Jabber](https://www.devchat.tv/js-jabber/)
+- [NodeUp: A Node.js Podcast](https://www.nodeup.com/)
 
 ## Books
 
-Addy Osmani. Learning JavaScript Design Patterns
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- [Addy Osmani. Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
