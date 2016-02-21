@@ -25,3 +25,7 @@
 ## Books
 
 - [Addy Osmani. Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## Libs
+
+- [Simple automated API-Doc generation for Javascript](https://www.doclets.io/)
