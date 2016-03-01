@@ -10,8 +10,8 @@
 
 - [Echo JS](http://www.echojs.com)
 - [Pony Foo](https://www.ponyfoo.com)
-- http://javascriptweekly.com
-- http://2ality.com
+- [JavaScript Weekly](http://www.javascriptweekly.com)
+- [2ality](http://www.2ality.com)
 
 ## Personal Blogs
 
