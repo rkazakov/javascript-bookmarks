@@ -15,7 +15,7 @@
 
 ## Personal Blogs
 
-- http://wesbos.com
+- [Web Bos](http://www.wesbos.com)
 
 ## Podcasts
 
