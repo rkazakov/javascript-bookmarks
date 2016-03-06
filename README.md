@@ -1,6 +1,6 @@
 # JavaScript bookmarks
 
-> A curated list of grea JavaScript resources
+> A curated list of great JavaScript resources
 
 ## Table of Contents
 - [Blogs](#blogs)
