@@ -4,9 +4,12 @@
 
 ## Table of Contents
 - [Blogs](#blogs)
+- [Personal Blogs](#podcasts)
 - [Podcasts](#podcasts)
+- [Books](#podcasts)
+- [Libs](#podcasts)
 
-### Blogs
+## Blogs
 
 - [Echo JS](http://www.echojs.com)
 - [Pony Foo](https://www.ponyfoo.com)
