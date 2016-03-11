@@ -19,6 +19,7 @@
 ## Personal Blogs
 
 - [Web Bos](http://www.wesbos.com)
+- [David Walsh](https://www.davidwalsh.name)
 
 ## Podcasts
 
