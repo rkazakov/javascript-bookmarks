@@ -8,6 +8,7 @@
 - [Podcasts](#podcasts)
 - [Books](#podcasts)
 - [Libs](#podcasts)
+- [Articles](#articles)
 
 ## Blogs
 
@@ -33,3 +34,7 @@
 ## Libs
 
 - [Simple automated API-Doc generation for Javascript](https://www.doclets.io/)
+
+## Articles
+
+- [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
