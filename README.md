@@ -9,6 +9,7 @@
 - [Books](#podcasts)
 - [Libs](#podcasts)
 - [Articles](#articles)
+- [Guides](#guides)
 
 ## Blogs
 
@@ -38,3 +39,7 @@
 ## Articles
 
 - [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
+
+## Guides
+
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/README.md)
