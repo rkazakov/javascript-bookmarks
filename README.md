@@ -39,6 +39,7 @@
 ## Articles
 
 - [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
+- [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205#.9hg8libb5)
 
 ## Guides
 
