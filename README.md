@@ -40,6 +40,7 @@
 
 - [7 Essential JavaScript Functions](https://davidwalsh.name/essential-javascript-functions)
 - [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205#.9hg8libb5)
+- [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 
 ## Guides
 
