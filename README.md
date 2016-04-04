@@ -6,6 +6,7 @@
 - [Blogs](#blogs)
 - [Personal Blogs](#podcasts)
 - [Podcasts](#podcasts)
+- [Great Podcast Episodes](#podcast-episodes)
 - [Books](#podcasts)
 - [Libs](#podcasts)
 - [Articles](#articles)
@@ -27,6 +28,10 @@
 
 - [JavaScript Jabber](https://www.devchat.tv/js-jabber/)
 - [NodeUp: A Node.js Podcast](https://www.nodeup.com/)
+
+## Podcast Episodes
+
+- [JSJ JavaScript Code Smells with Elijah Manor](https://devchat.tv/js-jabber/188-jsj-javascript-code-smells-with-elijah-manor)
 
 ## Books
 
