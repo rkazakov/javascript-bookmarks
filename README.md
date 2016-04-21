@@ -18,6 +18,7 @@
 - [Pony Foo](https://www.ponyfoo.com)
 - [JavaScript Weekly](http://www.javascriptweekly.com)
 - [2ality](http://www.2ality.com)
+- [Open Web Platform Daily Digest](http://webplatformdaily.org)
 
 ## Personal Blogs
 
