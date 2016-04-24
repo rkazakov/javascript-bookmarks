@@ -34,6 +34,7 @@
 
 - [JSJ JavaScript Code Smells with Elijah Manor](https://devchat.tv/js-jabber/188-jsj-javascript-code-smells-with-elijah-manor)
 - [JSJ redux and React with Dan Abramov](https://devchat.tv/js-jabber/179-jsj-redux-and-react-with-dan-abramov)
+- [JSJ Backbone.js with Jeremy Ashkenas](https://devchat.tv/js-jabber/004-jsj-backbone-js-with-jeremy-ashkenas)
 
 ## Books
 
