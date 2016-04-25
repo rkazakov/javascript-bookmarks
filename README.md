@@ -11,6 +11,7 @@
 - [Libs](#podcasts)
 - [Articles](#articles)
 - [Guides](#guides)
+- [Videos](#videos)
 
 ## Blogs
 
@@ -55,3 +56,7 @@
 ## Guides
 
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/blob/master/README.md)
+
+## Videos
+
+- [Testing Your React Components - React.js Conf 2016 - Leland Richardson](https://www.youtube.com/watch?v=V5N0Ukb8LGg)
