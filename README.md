@@ -55,6 +55,7 @@
 - [Optimizing AngularJS: 1200ms to 35ms](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms)
 - [JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration)
 - [JavaScript: The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
+- [FP vs. OO, from the trenches](http://blog.fogus.me/2013/07/22/fp-vs-oo-from-the-trenches)
 
 ## Guides
 
