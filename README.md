@@ -56,6 +56,7 @@
 - [JavaScript Testing: Unit vs Functional vs Integration Tests](http://www.sitepoint.com/javascript-testing-unit-functional-integration)
 - [JavaScript: The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 - [FP vs. OO, from the trenches](http://blog.fogus.me/2013/07/22/fp-vs-oo-from-the-trenches)
+- [TDD Should Be Fun](http://jrsinclair.com/articles/2016/tdd-should-be-fun/)
 
 ## Guides
 
