@@ -26,6 +26,7 @@
 - [Web Bos](http://www.wesbos.com)
 - [David Walsh](https://www.davidwalsh.name)
 - [Peter van der Zee](http://qfox.nl)
+- [Valeri Karpov](http://thecodebarbarian.com)
 
 ## Podcasts
 
